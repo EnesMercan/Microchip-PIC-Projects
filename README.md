@@ -1,3 +1,3 @@
 # Microchip-PIC-Projects
 My projects on Microchip PIC 
-I love pizza:
+I love :pizza:
