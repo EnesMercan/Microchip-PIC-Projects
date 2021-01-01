@@ -1,2 +1,4 @@
 # Microchip-PIC-Projects
-My projects on Microchip PIC 
+Embedded projects and tutorials developed on PIC microcontrollers with PIC ASSEMBLY and C
+
+Folders :
